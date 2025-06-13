@@ -1,5 +1,7 @@
 # 🎮 Uno Game (C++ Console Edition)
 
+Author : Huzaifa ALi
+
 A feature-rich, console-based Uno game built in C++. This game brings the classic card game to your terminal with colorful visuals, engaging gameplay, and save/resume functionality.
 
 ## 🚀 Features
